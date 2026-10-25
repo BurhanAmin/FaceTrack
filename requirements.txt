@@ -1,0 +1,7 @@
+streamlit>=1.36
+opencv-contrib-python>=4.9,<5
+numpy>=1.26
+pandas>=2.1
+Pillow>=10.0
+matplotlib>=3.8
+pytest>=8.0
